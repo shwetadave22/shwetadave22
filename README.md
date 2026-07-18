@@ -25,7 +25,7 @@ I'm a self-taught builder from India, creating real web products while learning 
 | **Softouch** | Mobile e-commerce app concept for soft toys & gifts — cart, coupons, payment screens |
 | **JobMitra** | Job-search app pulling *real live jobs* from 4 public APIs, with certification recommendations |
 | **StyleMe** | Hairstyle tutorial app — step-by-step guides, favorites, printable cheat-sheets |
-| **Ping!** | Browser table-tennis game with AI opponent, spin physics and real scoring |
+| **[Ping!](https://github.com/shwetadave22/ping-game)** | Browser table-tennis game with AI opponent, spin physics and real scoring — **[🕹️ play it live](https://shwetadave22.github.io/ping-game/)** |
 | **3D intro clips** | Animated brand intros built with Three.js |
 
 Each one taught me something different: payments UX, working with APIs, localStorage, canvas games, 3D graphics.
