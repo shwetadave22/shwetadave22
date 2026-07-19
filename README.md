@@ -24,7 +24,7 @@ I'm a self-taught builder from India, creating real web products while learning 
 | **Techsol** | Consulting website for a cement-plant consultancy (my dad's business) — bilingual English/Hindi |
 | **Softouch** | Mobile e-commerce app concept for soft toys & gifts — cart, coupons, payment screens |
 | **JobMitra** | Job-search app pulling *real live jobs* from 4 public APIs, with certification recommendations |
-| **StyleMe** | Hairstyle tutorial app — step-by-step guides, favorites, printable cheat-sheets |
+| **[StyleMe](https://github.com/shwetadave22/styleme)** | Hairstyle tutorial app — step-by-step guides, favorites, printable cheat-sheets — **[💇‍♀️ try it live](https://shwetadave22.github.io/styleme/)** |
 | **[Ping!](https://github.com/shwetadave22/ping-game)** | Browser table-tennis game with AI opponent, spin physics and real scoring — **[🕹️ play it live](https://shwetadave22.github.io/ping-game/)** |
 | **3D intro clips** | Animated brand intros built with Three.js |
 
