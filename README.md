@@ -24,6 +24,8 @@ I'm a self-taught builder from India, creating real web products while learning 
 | **Techsol** | Consulting website for a cement-plant consultancy (my dad's business) — bilingual English/Hindi |
 | **[SofTouch](https://github.com/shwetadave22/softouch)** | Mobile e-commerce app concept for soft toys & gifts — cart, coupons, payment screens — **[🧸 try it live](https://shwetadave22.github.io/softouch/)** |
 | **JobMitra** | Job-search app pulling *real live jobs* from 4 public APIs, with certification recommendations |
+| **[Glamora](https://github.com/shwetadave22/glamora)** | Beauty & makeup companion — tutorials, skincare routines, shade guidance — **[💄 try it live](https://shwetadave22.github.io/glamora/)** |
+| **[Rhyme Time!](https://github.com/shwetadave22/rhyme-kids)** | Rhyming game for kids — quizzes and build-a-rhyme rounds — **[🎵 play it live](https://shwetadave22.github.io/rhyme-kids/)** |
 | **[HairVerse](https://github.com/shwetadave22/styleme)** | Hair companion for women, men & kids — smart style advisor with match %, trending cuts, beard guide, care & cost planner — **[💇‍♀️ try it live](https://shwetadave22.github.io/styleme/)** |
 | **[Ping!](https://github.com/shwetadave22/ping-game)** | Browser table-tennis game with AI opponent, spin physics and real scoring — **[🕹️ play it live](https://shwetadave22.github.io/ping-game/)** |
 | **3D intro clips** | Animated brand intros built with Three.js |
