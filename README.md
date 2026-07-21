@@ -12,6 +12,9 @@ I'm a self-taught builder from India, creating real web products while learning 
 ## 🧵 Main project
 
 **[TexMart](https://texmart-textile.netlify.app)** — a B2B textile marketplace connecting Indian mills with retailers.
+
+![TexMart screenshot](https://s.wordpress.com/mshots/v1/https%3A%2F%2Ftexmart-textile.netlify.app%2F?w=900)
+
 - Live site with real accounts, supplier listings, enquiries and an admin dashboard
 - Built with HTML/CSS/JavaScript + Supabase (database & auth), deployed on Netlify with CI from GitHub
 - Features: RFQ "Get Best Price" flow, city & category filters, PAN/GSTIN validation with cross-check, email verification, WhatsApp/SMS supplier contact
@@ -21,9 +24,9 @@ I'm a self-taught builder from India, creating real web products while learning 
 
 | Project | What it is |
 |---|---|
-| **Techsol** | Consulting website for a cement-plant consultancy (my dad's business) — bilingual English/Hindi |
+| **Techsol** | Consulting website for a cement-plant consultancy (my dad's business) — bilingual English/Hindi — *prototype, not deployed yet* |
 | **[SofTouch](https://github.com/shwetadave22/softouch)** | Mobile e-commerce app concept for soft toys & gifts — cart, coupons, payment screens — **[🧸 try it live](https://shwetadave22.github.io/softouch/)** |
-| **JobMitra** | Job-search app pulling *real live jobs* from 4 public APIs, with certification recommendations |
+| **JobMitra** | Job-search app pulling *real live jobs* from 4 public APIs, with certification recommendations — *prototype, not deployed yet* |
 | **[Glamora](https://github.com/shwetadave22/glamora)** | Beauty & makeup companion — tutorials, skincare routines, shade guidance — **[💄 try it live](https://shwetadave22.github.io/glamora/)** |
 | **[Rhyme Time!](https://github.com/shwetadave22/rhyme-kids)** | Rhyming game for kids — quizzes and build-a-rhyme rounds — **[🎵 play it live](https://shwetadave22.github.io/rhyme-kids/)** |
 | **[HairVerse](https://github.com/shwetadave22/styleme)** | Hair companion for women, men & kids — smart style advisor with match %, trending cuts, beard guide, care & cost planner — **[💇‍♀️ try it live](https://shwetadave22.github.io/styleme/)** |
@@ -39,6 +42,10 @@ Each one taught me something different: payments UX, working with APIs, localSto
 - **AI as a power tool** — I build with Claude the way carpenters use power drills: it speeds up the work, but I decide what gets built
 - **Learn by breaking** — my first deploy failed; fixing it taught me more than ten tutorials
 
+## 🔨 Currently building
+
+Adding new games, voice practice and rewards to **Rhyme Time!** — plus deploying Techsol and JobMitra so every project on this page has a live link.
+
 ## 🌱 Currently learning
 
 - Git & GitHub (this profile is part of the journey!)
@@ -48,6 +55,7 @@ Each one taught me something different: payments UX, working with APIs, localSto
 ## 📊 GitHub stats
 
 ![Shweta's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwetadave22&show_icons=true&hide_rank=true)
+![Shweta's GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=shwetadave22)
 
 ## 📈 The journey so far
 
